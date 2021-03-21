@@ -1,0 +1,40 @@
+
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#content{
+
+  width: 450px;
+  padding: 0px 20px 20px;
+  background:white
+  margin: 0 auto;
+  border: 2px solid navy;
+
+}
+
+h1{color: navy}
+
+label{
+
+  width: 10em;
+  padding-right: 1em;
+  float: left;
+  }
+  
+#data input{
+  width: 15em;
+  margin-bottom: .5em;
+  float: left;
+}
+
+ 
+#buttons input{
+  margin-bottom: .5em;
+  float: left;
+}
+
+br{
+clear: left
+}
